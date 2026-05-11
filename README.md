@@ -1,3 +1,3 @@
 # Ervin Canigur
 
-[ervin-git.github.io](https://ervin-git.github.io)
+[ervincanigur.github.io](https://ervincanigur.github.io)
